@@ -1,0 +1,17 @@
+{
+  "name": "closures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "x_loadedDie.js",
+  "scripts": {
+    "test": "npx jest",
+    "test01": "npx jest 01_loadedDie.test.js",
+    "test02": "npx jest 02_loadedDie.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
